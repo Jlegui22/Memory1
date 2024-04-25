@@ -10,7 +10,6 @@
 }
 
 body {
-    -webkit-perspective: 1000;
     background: gray;
     min-height: 100vh;
     display: flex;
